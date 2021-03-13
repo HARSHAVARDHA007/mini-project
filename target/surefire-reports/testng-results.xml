@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="CalculatorTest" duration-ms="50" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+  <suite name="CalculatorTest" duration-ms="72" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="50" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+    <test name="Command line test" duration-ms="72" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
       <class name="CalculatorTest">
-        <test-method status="PASS" signature="factorialFalsePositive()[pri:0, instance:CalculatorTest@51399530]" name="factorialFalsePositive" duration-ms="5" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="factorialFalsePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="factorialFalsePositive" duration-ms="4" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- factorialFalsePositive -->
-        <test-method status="PASS" signature="factorialTruePositive()[pri:0, instance:CalculatorTest@51399530]" name="factorialTruePositive" duration-ms="1" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="factorialTruePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="factorialTruePositive" duration-ms="1" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- factorialTruePositive -->
-        <test-method status="PASS" signature="logFalsePositive()[pri:0, instance:CalculatorTest@51399530]" name="logFalsePositive" duration-ms="7" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="logFalsePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="logFalsePositive" duration-ms="16" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logFalsePositive -->
-        <test-method status="PASS" signature="logTruePositive()[pri:0, instance:CalculatorTest@51399530]" name="logTruePositive" duration-ms="1" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="logTruePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="logTruePositive" duration-ms="3" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logTruePositive -->
-        <test-method status="PASS" signature="powerFalsePositive()[pri:0, instance:CalculatorTest@51399530]" name="powerFalsePositive" duration-ms="1" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="powerFalsePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="powerFalsePositive" duration-ms="3" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- powerFalsePositive -->
-        <test-method status="PASS" signature="powerTruePositive()[pri:0, instance:CalculatorTest@51399530]" name="powerTruePositive" duration-ms="1" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="powerTruePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="powerTruePositive" duration-ms="1" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- powerTruePositive -->
-        <test-method status="PASS" signature="sqrootFalsePositive()[pri:0, instance:CalculatorTest@51399530]" name="sqrootFalsePositive" duration-ms="1" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="sqrootFalsePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="sqrootFalsePositive" duration-ms="5" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sqrootFalsePositive -->
-        <test-method status="PASS" signature="sqrootTruePositive()[pri:0, instance:CalculatorTest@51399530]" name="sqrootTruePositive" duration-ms="1" started-at="2021-03-13T16:01:56 IST" finished-at="2021-03-13T16:01:56 IST">
+        <test-method status="PASS" signature="sqrootTruePositive()[pri:0, instance:CalculatorTest@33d512c1]" name="sqrootTruePositive" duration-ms="1" started-at="2021-03-13T16:21:57 IST" finished-at="2021-03-13T16:21:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sqrootTruePositive -->
